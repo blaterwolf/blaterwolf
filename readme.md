@@ -1,4 +1,4 @@
-### Hello world! Angelo here - aka _blaterwolf_ 🐺
+### Hello world! Angelo here - aka <u>blaterwolf</u> 🐺
 
 #### BSIT Student of PUP-QC!
 
