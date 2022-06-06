@@ -1,6 +1,10 @@
-## hello world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> angelo here 🐺
+## hello world! 👋 angelo here 🐺
 
-* My name is Albert! 👋🌺
+* 👨‍💻 Would like to be called **Al** or **Angelo** that would be awesome.
+* 🐱 I like cats but I don't have one... I like to believe Schrödinger's cat is alive and theoretically make it as my own cat.
+* 🎶 Taylor Swift enthusiast (a.k.a. ***swiftie***)
+* 🎬 I like films! Check my [Letterboxd](https://letterboxd.com/blaterwolf/) account if you're interested with my quirky, serious, and maybe even fun one-liner reviews from my personal 5⭐ films to the worst ones.
+* 📬 Reach me at: blaterwolf@gmail.com
 
 #### Programming Tools 🔧
 
