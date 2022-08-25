@@ -6,6 +6,10 @@
 * 🎬 I like films! Check my [Letterboxd](https://letterboxd.com/blaterwolf/) account if you're interested with my quirky, serious, and maybe even fun one-liner reviews from my personal 5⭐ films to the worst ones.
 * 📬 Reach me at: blaterwolf@gmail.com
 
+#### Spotify Playing 🎧
+
+[<p align="center"> <img src="https://blaterwolf-spotify.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="300" />](https://open.spotify.com/user/9mtpsfc6cmuh84qp619fpjfs?si=VCOaUGbdSoeAP5SAkNzGvw)
+
 #### Programming Tools 🔧
 
 <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"> <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"> <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"> <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"> <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
@@ -17,7 +21,3 @@
 [<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=blaterwolf&show_icons=true&theme=synthwave" alt="Albert's GitHub stats" />](https://github.com/anuraghazra/github-readme-stats)
 
 [<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blaterwolf&layout=compact&theme=synthwave" alt="Albert's GitHub stats" />](https://github.com/anuraghazra/github-readme-stats)
-
-#### Spotify Playing 🎧
-
-[<p align="center"> <img src="https://blaterwolf-spotify.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="300" />](https://open.spotify.com/user/9mtpsfc6cmuh84qp619fpjfs?si=VCOaUGbdSoeAP5SAkNzGvw)
