@@ -1,0 +1,47 @@
+name: Update recently watched films
+
+on:
+  schedule:
+    - cron: '17 16 * * *' # daily at 00:17 Philippine time
+  workflow_dispatch: # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write # needed to commit the refreshed posters to readme.md
+
+# Shared with the other profile workflow so the two never push at once.
+concurrency:
+  group: profile-readme
+  cancel-in-progress: false
+
+jobs:
+  update-films:
+    name: Pull the latest Letterboxd diary entries
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Write the latest film posters into readme.md
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: 'https://letterboxd.com/blaterwolf/rss/'
+          readme_path: './readme.md' # lowercase on purpose, the default is README.md
+          comment_tag_name: 'LETTERBOXD'
+          max_post_count: 5
+          # Registers $rating for the template. item_exec fills it in below.
+          custom_tags: 'rating/letterboxd:memberRating/'
+          # Each feed entry carries its poster as an <img> in the description.
+          # Keep the poster URL and the star rating, and drop entries that
+          # have no poster (lists, for example).
+          item_exec: |
+            const poster = /<img src="([^"]+)"/.exec(post.description);
+            const stars = /^[★½]+$/.exec(post.title.split(' - ').pop());
+            if (poster) {
+              post.description = poster[1];
+              post.rating = stars ? stars[0] : 'watched';
+            } else {
+              post = null;
+            }
+          # One table cell per film. The surrounding <table> lives in readme.md.
+          template: '$newline<td align="center"><a href="$url"><img src="$description" width="120" alt="$title" /></a><br /><sub>$rating</sub></td>'
+          commit_message: 'Update recently watched films'

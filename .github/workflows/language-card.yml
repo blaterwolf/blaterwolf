@@ -1,0 +1,39 @@
+name: Update language card
+
+on:
+  schedule:
+    - cron: '43 18 * * 0' # weekly, Monday 02:43 Philippine time
+  workflow_dispatch: # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write # needed to commit the regenerated card
+
+# Shared with the other profile workflow so the two never push at once.
+concurrency:
+  group: profile-readme
+  cancel-in-progress: false
+
+jobs:
+  build:
+    name: Regenerate the most used languages card
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=synthwave
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true # keep the last good card instead of saving an error card
+
+      - name: Commit card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update language card" || exit 0
+          git push
