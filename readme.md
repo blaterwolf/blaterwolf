@@ -24,11 +24,11 @@ Straight from my [Letterboxd diary](https://letterboxd.com/blaterwolf/films/diar
 <table>
 <tr>
 <!-- LETTERBOXD:START -->
-<td align="center"><a href="https://letterboxd.com/blaterwolf/film/perfect-blue/"><img src="https://a.ltrbxd.com/resized/film-poster/4/6/1/7/5/46175-perfect-blue-0-600-0-900-crop.jpg?v=1ed5878cce" width="120" alt="Perfect Blue, 1997 - ★★★★★" /></a><br /><sub>★★★★★</sub></td>
-<td align="center"><a href="https://letterboxd.com/blaterwolf/film/ella-arcangel-ballad-of-tooth-and-claw/"><img src="https://a.ltrbxd.com/resized/film-poster/1/4/4/2/2/9/2/1442292-ella-arcangel-ballad-of-tooth-and-claw-0-600-0-900-crop.jpg?v=2e77eb59c7" width="120" alt="Ella Arcangel: Ballad of Tooth and Claw, 2026 - ★★★★½" /></a><br /><sub>★★★★½</sub></td>
-<td align="center"><a href="https://letterboxd.com/blaterwolf/film/fjord-2026/"><img src="https://a.ltrbxd.com/resized/film-poster/1/2/8/5/1/6/8/1285168-fjord-2026-0-600-0-900-crop.jpg?v=12a10d5226" width="120" alt="Fjord, 2026 - ★★★★½" /></a><br /><sub>★★★★½</sub></td>
-<td align="center"><a href="https://letterboxd.com/blaterwolf/film/red-crown/"><img src="https://a.ltrbxd.com/resized/film-poster/1/6/2/2/9/8/6/1622986-red-crown-0-600-0-900-crop.jpg?v=0c8c5f0890" width="120" alt="Red Crown, 2026 - ½" /></a><br /><sub>½</sub></td>
-<td align="center"><a href="https://letterboxd.com/blaterwolf/film/my-ex-whys/"><img src="https://a.ltrbxd.com/resized/film-poster/3/7/4/4/5/6/374456-my-ex-whys-0-600-0-900-crop.jpg?v=d52950479d" width="120" alt="My Ex &amp; Whys, 2017 - ★" /></a><br /><sub>★</sub></td><!-- LETTERBOXD:END -->
+<td align="center"><a href="https://letterboxd.com/blaterwolf/film/and-if-thuy-didnt-exist/"><img src="https://a.ltrbxd.com/resized/film-poster/1/6/0/0/0/2/0/1600020-and-if-thuy-didnt-exist-0-600-0-900-crop.jpg?v=821a2d6ad5" width="120" alt="And If Thuy Didn&#39;t Exist, 2026 - ★★½" /></a><br /><sub>★★½</sub></td>
+<td align="center"><a href="https://letterboxd.com/blaterwolf/film/she-said-2026/"><img src="https://a.ltrbxd.com/resized/film-poster/1/6/0/2/8/1/5/1602815-she-said-2026-0-600-0-900-crop.jpg?v=7e514accdc" width="120" alt="She Said, 2026 - ★★" /></a><br /><sub>★★</sub></td>
+<td align="center"><a href="https://letterboxd.com/blaterwolf/film/is-this-desire/"><img src="https://a.ltrbxd.com/resized/film-poster/1/3/0/1/8/2/5/1301825-is-this-desire-0-600-0-900-crop.jpg?v=21a944b7e5" width="120" alt="Is this desire?, 2026 - ★★★" /></a><br /><sub>★★★</sub></td>
+<td align="center"><a href="https://letterboxd.com/blaterwolf/film/through-the-cracks-2026/"><img src="https://a.ltrbxd.com/resized/film-poster/1/6/4/8/8/4/0/1648840-through-the-cracks-2026-0-600-0-900-crop.jpg?v=3b7b367132" width="120" alt="Through the Cracks, 2026 - ★★½" /></a><br /><sub>★★½</sub></td>
+<td align="center"><a href="https://letterboxd.com/blaterwolf/film/body-works/"><img src="https://a.ltrbxd.com/resized/film-poster/1/6/5/8/5/6/3/1658563-body-works-0-600-0-900-crop.jpg?v=5ff829246d" width="120" alt="Body Works, 2026 - ★★★★" /></a><br /><sub>★★★★</sub></td><!-- LETTERBOXD:END -->
 </tr>
 </table>
 </div>
