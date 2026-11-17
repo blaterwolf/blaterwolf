@@ -24,11 +24,11 @@ Straight from my [Letterboxd diary](https://letterboxd.com/blaterwolf/films/diar
 <table>
 <tr>
 <!-- LETTERBOXD:START -->
+<td align="center"><a href="https://letterboxd.com/blaterwolf/film/everytime/"><img src="https://a.ltrbxd.com/resized/film-poster/1/5/1/8/9/4/7/1518947-everytime-0-600-0-900-crop.jpg?v=5980567fe9" width="120" alt="Everytime, 2026 - ★★½" /></a><br /><sub>★★½</sub></td>
+<td align="center"><a href="https://letterboxd.com/blaterwolf/film/i-love-paris/"><img src="https://a.ltrbxd.com/resized/film-poster/1/5/7/6/3/3/6/1576336-i-love-paris-0-600-0-900-crop.jpg?v=28400628fe" width="120" alt="I Love Paris, 2026 - ★★★★★" /></a><br /><sub>★★★★★</sub></td>
 <td align="center"><a href="https://letterboxd.com/blaterwolf/film/chronovisor/"><img src="https://a.ltrbxd.com/resized/film-poster/1/4/6/7/7/8/4/1467784-chronovisor-0-600-0-900-crop.jpg?v=50c00b9581" width="120" alt="Chronovisor, 2026 - ★★★" /></a><br /><sub>★★★</sub></td>
 <td align="center"><a href="https://letterboxd.com/blaterwolf/film/i-grew-an-inch-when-my-father-died/"><img src="https://a.ltrbxd.com/resized/film-poster/1/4/4/0/8/5/9/1440859-i-grew-an-inch-when-my-father-died-0-600-0-900-crop.jpg?v=6f04000076" width="120" alt="i grew an inch when my father died, 2026 - ★★½" /></a><br /><sub>★★½</sub></td>
-<td align="center"><a href="https://letterboxd.com/blaterwolf/film/and-if-thuy-didnt-exist/"><img src="https://a.ltrbxd.com/resized/film-poster/1/6/0/0/0/2/0/1600020-and-if-thuy-didnt-exist-0-600-0-900-crop.jpg?v=821a2d6ad5" width="120" alt="And If Thuy Didn&#39;t Exist, 2026 - ★★½" /></a><br /><sub>★★½</sub></td>
-<td align="center"><a href="https://letterboxd.com/blaterwolf/film/she-said-2026/"><img src="https://a.ltrbxd.com/resized/film-poster/1/6/0/2/8/1/5/1602815-she-said-2026-0-600-0-900-crop.jpg?v=7e514accdc" width="120" alt="She Said, 2026 - ★★" /></a><br /><sub>★★</sub></td>
-<td align="center"><a href="https://letterboxd.com/blaterwolf/film/is-this-desire/"><img src="https://a.ltrbxd.com/resized/film-poster/1/3/0/1/8/2/5/1301825-is-this-desire-0-600-0-900-crop.jpg?v=21a944b7e5" width="120" alt="Is this desire?, 2026 - ★★★" /></a><br /><sub>★★★</sub></td><!-- LETTERBOXD:END -->
+<td align="center"><a href="https://letterboxd.com/blaterwolf/film/and-if-thuy-didnt-exist/"><img src="https://a.ltrbxd.com/resized/film-poster/1/6/0/0/0/2/0/1600020-and-if-thuy-didnt-exist-0-600-0-900-crop.jpg?v=821a2d6ad5" width="120" alt="And If Thuy Didn&#39;t Exist, 2026 - ★★½" /></a><br /><sub>★★½</sub></td><!-- LETTERBOXD:END -->
 </tr>
 </table>
 </div>
