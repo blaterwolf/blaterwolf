@@ -24,11 +24,11 @@ Straight from my [Letterboxd diary](https://letterboxd.com/blaterwolf/films/diar
 <table>
 <tr>
 <!-- LETTERBOXD:START -->
+<td align="center"><a href="https://letterboxd.com/blaterwolf/film/you-can-see-everything/"><img src="https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-600-0-900-crop.jpg?v=84f6724d74" width="120" alt="You Can See Everything, 2026 - ★★★★★" /></a><br /><sub>★★★★★</sub></td>
+<td align="center"><a href="https://letterboxd.com/blaterwolf/film/batang-west-side/"><img src="https://a.ltrbxd.com/resized/film-poster/1/5/5/3/3/1/155331-batang-west-side-0-600-0-900-crop.jpg?v=4bb3cf7e1a" width="120" alt="Batang West Side, 2001 - ★★★★½" /></a><br /><sub>★★★★½</sub></td>
 <td align="center"><a href="https://letterboxd.com/blaterwolf/film/baby-jackfruit-baby-guava/"><img src="https://a.ltrbxd.com/resized/film-poster/1/2/9/9/4/0/4/1299404-baby-jackfruit-baby-guava-0-600-0-900-crop.jpg?v=996f510952" width="120" alt="Baby Jackfruit Baby Guava, 2026 - ★★★★½" /></a><br /><sub>★★★★½</sub></td>
 <td align="center"><a href="https://letterboxd.com/blaterwolf/film/9-temples-to-heaven/"><img src="https://a.ltrbxd.com/resized/film-poster/9/4/3/7/8/3/943783-9-temples-to-heaven-0-600-0-900-crop.jpg?v=9bfb585032" width="120" alt="9 Temples to Heaven, 2026 - ★★★" /></a><br /><sub>★★★</sub></td>
-<td align="center"><a href="https://letterboxd.com/blaterwolf/film/possession/"><img src="https://a.ltrbxd.com/resized/sm/upload/8c/pk/z8/4v/aIjO3kraeaD4MDBSef3rTO2vIuZ-0-600-0-900-crop.jpg?v=cb9f332628" width="120" alt="Possession, 1981 - ★★★★" /></a><br /><sub>★★★★</sub></td>
-<td align="center"><a href="https://letterboxd.com/blaterwolf/film/club-kid/"><img src="https://a.ltrbxd.com/resized/film-poster/1/4/5/6/2/4/2/1456242-club-kid-0-600-0-900-crop.jpg?v=b2d52aad9d" width="120" alt="Club Kid, 2026 - ★★★★★" /></a><br /><sub>★★★★★</sub></td>
-<td align="center"><a href="https://letterboxd.com/blaterwolf/film/everytime/"><img src="https://a.ltrbxd.com/resized/film-poster/1/5/1/8/9/4/7/1518947-everytime-0-600-0-900-crop.jpg?v=5980567fe9" width="120" alt="Everytime, 2026 - ★★½" /></a><br /><sub>★★½</sub></td><!-- LETTERBOXD:END -->
+<td align="center"><a href="https://letterboxd.com/blaterwolf/film/possession/"><img src="https://a.ltrbxd.com/resized/sm/upload/8c/pk/z8/4v/aIjO3kraeaD4MDBSef3rTO2vIuZ-0-600-0-900-crop.jpg?v=cb9f332628" width="120" alt="Possession, 1981 - ★★★★" /></a><br /><sub>★★★★</sub></td><!-- LETTERBOXD:END -->
 </tr>
 </table>
 </div>
