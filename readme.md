@@ -24,11 +24,11 @@ Straight from my [Letterboxd diary](https://letterboxd.com/blaterwolf/films/diar
 <table>
 <tr>
 <!-- LETTERBOXD:START -->
-<td align="center"><a href="https://letterboxd.com/blaterwolf/film/the-unknown-2026/"><img src="https://a.ltrbxd.com/resized/film-poster/1/0/6/9/0/7/3/1069073-the-unknown-2026-0-600-0-900-crop.jpg?v=0598dd0b29" width="120" alt="The Unknown, 2026 - ★★★½" /></a><br /><sub>★★★½</sub></td>
-<td align="center"><a href="https://letterboxd.com/blaterwolf/film/teenage-sex-and-death-at-camp-miasma/1/"><img src="https://a.ltrbxd.com/resized/film-poster/1/1/2/3/8/6/7/1123867-teenage-sex-and-death-at-camp-miasma-0-600-0-900-crop.jpg?v=f6059120f8" width="120" alt="Teenage Sex and Death at Camp Miasma, 2026 - ★★★★★" /></a><br /><sub>★★★★★</sub></td>
-<td align="center"><a href="https://letterboxd.com/blaterwolf/film/gorgeous-grandmother/"><img src="https://a.ltrbxd.com/resized/film-poster/1/6/2/2/2/7/7/1622277-gorgeous-grandmother-0-600-0-900-crop.jpg?v=b42db0f060" width="120" alt="Gorgeous Grandmother, 2026 - ★★★½" /></a><br /><sub>★★★½</sub></td>
-<td align="center"><a href="https://letterboxd.com/blaterwolf/film/maanaa-kanimo/"><img src="https://a.ltrbxd.com/resized/film-poster/1/6/5/8/6/5/3/1658653-maanaa-kanimo-0-600-0-900-crop.jpg?v=889163b524" width="120" alt="Maanaa Kanimo, 2026 - ★★★★" /></a><br /><sub>★★★★</sub></td>
-<td align="center"><a href="https://letterboxd.com/blaterwolf/film/the-4ply-clandestine-system/"><img src="https://a.ltrbxd.com/resized/film-poster/1/4/3/9/8/7/3/1439873-the-4ply-clandestine-system-0-600-0-900-crop.jpg?v=970ad4df2e" width="120" alt="The 4PLY Clandestine System, 2025 - ★★★" /></a><br /><sub>★★★</sub></td><!-- LETTERBOXD:END -->
+<td align="center"><a href="https://letterboxd.com/blaterwolf/film/amores-perros/"><img src="https://a.ltrbxd.com/resized/film-poster/5/1/9/9/0/51990-amores-perros-0-600-0-900-crop.jpg?v=f9c46ae728" width="120" alt="Amores Perros, 2000 - ★★★★½" /></a><br /><sub>★★★★½</sub></td>
+<td align="center"><a href="https://letterboxd.com/blaterwolf/film/flesh-fuel/"><img src="https://a.ltrbxd.com/resized/film-poster/9/7/8/0/1/0/978010-flesh-fuel-0-600-0-900-crop.jpg?v=2b4bd81078" width="120" alt="Flesh &amp; Fuel, 2026 - ★★" /></a><br /><sub>★★</sub></td>
+<td align="center"><a href="https://letterboxd.com/blaterwolf/film/the-color-of-the-sun-2026/"><img src="https://a.ltrbxd.com/resized/film-poster/1/6/0/2/6/2/9/1602629-the-color-of-the-sun-2026-0-600-0-900-crop.jpg?v=1273520821" width="120" alt="The Color of the Sun, 2026 - ★★★★" /></a><br /><sub>★★★★</sub></td>
+<td align="center"><a href="https://letterboxd.com/blaterwolf/film/fatherland-2026/"><img src="https://a.ltrbxd.com/resized/film-poster/1/3/1/5/3/1/8/1315318-fatherland-2026-0-600-0-900-crop.jpg?v=6995cce652" width="120" alt="Fatherland, 2026 - ★★★★" /></a><br /><sub>★★★★</sub></td>
+<td align="center"><a href="https://letterboxd.com/blaterwolf/film/the-unknown-2026/"><img src="https://a.ltrbxd.com/resized/film-poster/1/0/6/9/0/7/3/1069073-the-unknown-2026-0-600-0-900-crop.jpg?v=0598dd0b29" width="120" alt="The Unknown, 2026 - ★★★½" /></a><br /><sub>★★★½</sub></td><!-- LETTERBOXD:END -->
 </tr>
 </table>
 </div>
